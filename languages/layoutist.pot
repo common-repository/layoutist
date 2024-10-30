@@ -1,0 +1,78 @@
+# Copyright (C) 2020 Layoutist
+# This file is distributed under the same license as the Layoutist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Layoutist\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: plugin.php:247, plugin.php:248
+msgid "Layoutist"
+msgstr ""
+
+#: plugin.php:270, plugin.php:273
+msgid "Elementor"
+msgstr ""
+
+#: plugin.php:290
+msgid "No more templates, more coming soon :)"
+msgstr ""
+
+#: plugin.php:306
+msgid "Required Plugins"
+msgstr ""
+
+#: plugin.php:309
+msgid "Install"
+msgstr ""
+
+#: plugin.php:310
+msgid "Activate"
+msgstr ""
+
+#: plugin.php:311
+msgid "Purchase"
+msgstr ""
+
+#: plugin.php:312
+msgid "Active"
+msgstr ""
+
+#: plugin.php:336
+msgid "Enter desktop preview mode"
+msgstr ""
+
+#: plugin.php:345
+msgid "Enter tablet preview mode"
+msgstr ""
+
+#: plugin.php:353
+msgid "Enter mobile preview mode"
+msgstr ""
+
+#: plugin.php:375
+msgid "Preview & Import"
+msgstr ""
+
+#: plugin.php:394
+msgid "Security check failed."
+msgstr ""
+
+#: plugin.php:398
+msgid "Type is missing."
+msgstr ""
+
+#: plugin.php:414
+msgid "Template ID is missing."
+msgstr ""
+
+#: plugin.php:453
+msgid "Plugin activated."
+msgstr ""
